@@ -1,0 +1,4 @@
+name: selenium-env
+dependencies:
+  - python
+  - selenium
